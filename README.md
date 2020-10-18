@@ -1,2 +1,2 @@
-# CovidStats-
+# CovidStatts
 CovidStats - For reliable covid statistics
